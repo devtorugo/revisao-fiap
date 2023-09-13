@@ -8,3 +8,7 @@ git init
 
 vincular o repositorio local ao repositorio remoto (GITHUB)
 gir remote add origin seu edereco-github.git
+
+Comandos mais utilizados no git
+git status - Situação
+git add <file> Adiciona no Starged area
