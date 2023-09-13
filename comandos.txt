@@ -1,0 +1,10 @@
+Configuração do Git
+
+git config --global user.name "seu nome"
+git config --global user.email "seu email"
+
+iniciar o Git com seu projeto
+git init
+
+vincular o repositorio local ao repositorio remoto (GITHUB)
+gir remote add origin seu edereco-github.git
